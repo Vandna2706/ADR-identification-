@@ -30,3 +30,11 @@ Dechallenge: Yes. The patient fully recovered after drug discontinuation (and ad
 Alternative Causes: Highly Unlikely. The rapid onset of systemic allergic symptoms (urticaria, itching) is a classic immediate hypersensitivity reaction to a beta-lactam antibiotic like Amoxicillin. Concomitant paracetamol was taken only on an "as needed" (SOS) basis.
 Causality Classification: Certain or Probable 
     Reason- There is clear evidence of a strong chronological sequence, a positive recovery upon stopping the medication, and the clinical presentation perfectly matches an immunologic reaction to the drug.
+......
+#Task 4 - Severity & Case Classification
+**Case - Aspirin**
+Seriousness: Non-Serious (Mild gastrointestinal distress that does not meet the criteria for life-threatening risk, disability, or hospitalization)
+Expectedness: Expected (Heartburn and nausea are well-documented, standard local gastric side effects of oral aspirin use)
+**Case - Amoxicillin**
+Seriousness: Non-Serious (Does not meet the criteria of death, life-threatening risk, or hospitalization)
+Expectedness: Expected (Allergic skin reactions are widely documented side effects listed in standard reference safety information)
